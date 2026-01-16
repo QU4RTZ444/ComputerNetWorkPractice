@@ -2,7 +2,7 @@
 
 BUPT2025年计网实践课程报告及相关资料
 
-包含了2个需要提交的实验报告以及课程实验内容的ppt
+包含了2个需要提交的实验报告和相关的两个实验的项目文件以及课程实验内容的ppt
 
 这个链接里面有各种路由器镜像：<https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG>
 
